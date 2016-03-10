@@ -12,7 +12,7 @@ The new JavaScript APIs for Word change the way that you can interact with objec
 
 ## Create your first Word add-in
 
-A Word add-in runs inside Word and can interact with the contents of the document using the new Word JavaScript APIs available in Word 2016. Under the hood, there are two parts to create an add-in: 1) a web application that you can host anywhere, and 2) the [add-in manifest](../../docs/overview/add-in-manifests.md) that Word uses to discover where your web application is hosted (the manifest provides more than this, read more in the [programming overview](word-add-ins-programming-guide.md)).
+A Word add-in runs inside Word and can interact with the contents of the document using the new Word JavaScript APIs available in Word 2016. Under the hood, there are two parts to create an add-in: 1) a web application that you can host anywhere, and 2) the [add-in manifest](../../docs/overview/add-in-manifests.md) that Word uses to discover where your web application is hosted (the manifest provides more than this, read more in the [programming overview](word-add-ins-programming-overview.md)).
 
 >**Word add-in = manifest.xml + web app**
 
