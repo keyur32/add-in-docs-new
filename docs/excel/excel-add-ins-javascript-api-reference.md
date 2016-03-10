@@ -27,5 +27,5 @@ The links below show the high level Excel objects available in the APIs. Each ob
 *  [Excel add-ins programming overview](excel-add-ins-javascript-programming-overview.md)
 *  [Build your first Excel add-in](build-your-first-excel-add-in.md)
 *  [Snippet Explorer for Excel](http://officesnippetexplorer.azurewebsites.net/#/snippets/excel)
-*  [Excel add-ins code samples](excel-add-ins-code-samples.md)
+*  [Excel add-ins code samples](excel-add-in-code-samples.md)
 
