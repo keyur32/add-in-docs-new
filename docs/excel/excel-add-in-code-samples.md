@@ -35,5 +35,5 @@ You can use the [Office 2016 JavaScript Snippet Explorer](http://officesnippetex
 The Excel JavaScript APIs have much more to offer you as you develop add-ins. The following are just a few of the available resources.
 
 *  [Build your first Excel add-in](build-your-first-excel-add-in.md)
-*  [Excel add-ins programming overview](excel-add-ins--javascript-programming-overview.md)
+*  [Excel add-ins programming overview](excel-add-ins-javascript-programming-overview.md)
 *  [Excel add-ins JavaScript API reference](excel-add-ins-javascript-api-reference.md)
