@@ -1,5 +1,6 @@
 
-# Interaction patterns for Office Add-ins
+# Interaction patterns for Office Add-ins
+
 
 Office Add-ins can enhance authoring and productivity experiences as well as connect content in Office host applications to larger web-based workflows. A number of common scenarios apply to content, task pane, and Outlook add-ins that you might develop. This article describes some of the most common scenarios and provides recommended interaction patterns for the add-in UX. You can break down, combine, or mix and match these interaction patterns depending on your unique scenarios.
 
@@ -193,5 +194,5 @@ Best suited for:
 
 
 
-- [Design guidelines for Office Add-ins](../../docs/design/add-in-design.md)
+- [Design guidelines for Office Add-ins](../add-in-design.md)
     
