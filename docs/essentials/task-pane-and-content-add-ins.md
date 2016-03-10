@@ -1,12 +1,13 @@
 
 # Task pane and content add-ins for Office 2013
-
+
+
 
 
 ## JavaScript API support for content and task pane add-ins
 
 
-This section briefly describes the subset of the [JavaScript API for Office](http://msdn.microsoft.com/library/b27e70c3-d87d-4d27-85e0-103996273298%28Office.15%29.aspx) that you can call from content and task pane add-ins. See [Understanding the JavaScript API for Office](../../docs/overview/understanding-the-javascript-api-for-office.md) for an overview of the features of the API. For samples, see [Office Add-ins code samples](../samples/code-samples.md).
+This section briefly describes the subset of the [JavaScript API for Office](http://msdn.microsoft.com/library/b27e70c3-d87d-4d27-85e0-103996273298%28Office.15%29.aspx) that you can call from content and task pane add-ins. See [Understanding the JavaScript API for Office](../../docs/overview/understanding-the-javascript-api-for-office.md) for an overview of the features of the API.
 
 You can categorize the primary objects and methods supported by content and task pane add-ins as follows:
 
