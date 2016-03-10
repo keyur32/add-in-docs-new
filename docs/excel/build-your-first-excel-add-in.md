@@ -304,7 +304,7 @@ The simplest way to deploy and test your add-in is to copy the files to a networ
 
 ### Additional resources
 
-*  [Excel add-ins programming overview](excel-add-ins-programming-overview.md)
+*  [Excel add-ins programming overview](excel-add-ins-javascript-programming-overview.md)
 *  [Snippet Explorer for Excel](http://officesnippetexplorer.azurewebsites.net/#/snippets/excel)
 *  [Excel add-in code samples](excel-add-in-code-samples.md)
 *  [Excel add-ins JavaScript API reference](excel-add-ins-javascript-api-reference.md)
