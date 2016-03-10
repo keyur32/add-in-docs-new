@@ -53,7 +53,7 @@ object.load({loadOption});
 Where,
 
 * `properties` is the list of properties and/or relationship names to be loaded specified as comma-delimited strings or array of names. See .load() methods under each object for details.
-* `loadOption` specifies an object that describes the selection, expansion, top, and skip options. See object load [options](../../references/excel/loadoption.md) for details.
+* `loadOption` specifies an object that describes the selection, expansion, top, and skip options. See object load [options](../../reference/excel/loadoption.md) for details.
 
 ##### Example
 
@@ -127,7 +127,7 @@ Excel.run(function (ctx) {
 By default, object.load() selects all scalar and complex properties of the object that is being loaded. The relationships are not loaded by default (example, format is a relationship object of Range object). However, it is always recommended to mark the properties and relations to be loaded explicitly to improve performance. This can be done by specifying (in the `load()` parameter) a subset of properties and relationships to include in the response. Load method allows two kinds of inputs:
 
 * Property and relationship names as comma-separated string names _or_ as an array of strings containing property or relationship names.
-* An object that describes the selection, expansion, top, and skip options. See object load [options](../../references/excel/loadoption.md) for details.
+* An object that describes the selection, expansion, top, and skip options. See object load [options](../../reference/excel/loadoption.md) for details.
 
 ```js
 object.load  ('<var1>,<relation1/var2>');
